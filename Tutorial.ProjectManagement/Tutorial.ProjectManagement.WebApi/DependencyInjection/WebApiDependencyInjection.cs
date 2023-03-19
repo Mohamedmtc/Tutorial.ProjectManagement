@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using Tutorial.ProjectManagement.Application.Contracts;
+using Tutorial.ProjectManagement.Application.Contracts.Database;
 using Tutorial.ProjectManagement.Application.DependencyInjection;
 using Tutorial.ProjectManagement.Core.AppSetting;
 using Tutorial.ProjectManagement.Core.DependencyInjection;

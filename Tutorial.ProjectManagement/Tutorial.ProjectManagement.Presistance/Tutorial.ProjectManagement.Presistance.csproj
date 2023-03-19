@@ -13,7 +13,7 @@
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.3" />
 	</ItemGroup>
 	<ItemGroup>
-	  <ProjectReference Include="..\Tutorial.ProjectManagement.Application\Tutorial.ProjectManagement.Application.csproj" />
+	  <ProjectReference Include="..\..\Tutorial.ProjectManagement.Application.Contracts\Tutorial.ProjectManagement.Application.Contracts.csproj" />
 	</ItemGroup>
 
 </Project>

@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using Tutorial.ProjectManagement.Application.Contracts;
+using Tutorial.ProjectManagement.Application.Contracts.Database;
 
 namespace Tutorial.ProjectManagement.WebApi.Controllers
 {

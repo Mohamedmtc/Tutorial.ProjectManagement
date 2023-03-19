@@ -5,7 +5,7 @@ using System.Linq;
 using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
-using Tutorial.ProjectManagement.Application.Contracts;
+using Tutorial.ProjectManagement.Application.Contracts.Database;
 
 namespace Tutorial.ProjectManagement.Presistance.Context
 {

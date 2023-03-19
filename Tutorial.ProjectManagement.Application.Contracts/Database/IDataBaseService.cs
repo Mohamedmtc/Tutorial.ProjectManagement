@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Tutorial.ProjectManagement.Application.Contracts
+namespace Tutorial.ProjectManagement.Application.Contracts.Database
 {
     public interface IDataBaseService
     {
