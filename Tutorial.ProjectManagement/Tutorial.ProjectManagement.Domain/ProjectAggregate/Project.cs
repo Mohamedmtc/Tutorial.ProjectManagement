@@ -10,7 +10,7 @@ public class Project : EntityBase, IAggregateRoot
     public string Name { get; private set; }
 
 
-    private List<ToDoItem> _items = new();
+    private readonly List<ToDoItem> _items = new();
     public IEnumerable<ToDoItem> Items => _items.AsReadOnly();
 
 
